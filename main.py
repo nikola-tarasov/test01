@@ -5,5 +5,8 @@
 
 
 
+def main():
+    print("HelloWorld")
 
-print("HelloWorld")
+
+main()
